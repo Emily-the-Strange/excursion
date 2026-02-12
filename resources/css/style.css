@@ -6,3 +6,8 @@ body{
     color:white;
     align-content:center;
 }
+
+{.h1
+    text-align: center;
+    font-size: 50px;
+}
