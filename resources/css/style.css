@@ -3,9 +3,37 @@ body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     align-content:center;
 }
+/* HEADINGS */
 
-.main{
+.header--main{
+    font-weight: normal;
     text-align: center;
     font-size: 50px;
+    color:white;
+}
+
+/* LINKS */
+
+.link--cta{
+    color:aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+/* SECONDARY HEADER */
+
+ .header--secondary{
+    font-weight: normal;
+    text-align: center;
+    font-size: 30px;
+    color:white;
+} 
+
+/* HEADER SUB-HEADER */
+
+.header--sub-header{
+    font-weight: normal;
+    text-align: center;
+    font-size: 20px;
     color:white;
 }
