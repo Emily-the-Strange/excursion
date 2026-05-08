@@ -9,7 +9,6 @@ body{
 /* HEADINGS */
 
 .header--main{
-    display:grid;
     font-weight: normal;
     text-align: center;
     font-size: 50px;
@@ -20,7 +19,6 @@ body{
 /* LINKS */
 
 .link--cta{
-    display:grid;
     color:aquamarine;
     font-size: 16px;
     text-align: center;
@@ -29,7 +27,6 @@ body{
 /* SECONDARY HEADER */
 
  .header--secondary{
-    display: grid;
     font-weight: normal;
     text-align: center;
     font-size: 30px;
@@ -40,7 +37,6 @@ body{
 /* HEADER SUB-HEADER */
 
 .header--sub-header{
-    display: grid;
     font-weight: normal;
     text-align: center;
     font-size: 20px;
