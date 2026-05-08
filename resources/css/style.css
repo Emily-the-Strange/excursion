@@ -1,7 +1,7 @@
 body{
     background-color: black;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    align-content:center;
+    align-items: center;
     border:1px solid red;
 }
 /* HEADINGS */
