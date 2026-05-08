@@ -9,6 +9,7 @@ body{
 
 .header--main{
     display:flex;
+    justify-content: center;
     font-weight: normal;
     text-align: center;
     font-size: 50px;
@@ -29,6 +30,7 @@ body{
 
  .header--secondary{
     display: flex;
+    justify-content: center;
     font-weight: normal;
     text-align: center;
     font-size: 30px;
@@ -40,6 +42,7 @@ body{
 
 .header--sub-header{
     display: flex;
+    justify-content: center;
     font-weight: normal;
     text-align: center;
     font-size: 20px;
