@@ -2,8 +2,7 @@ body{
     background-color: black;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     align-content:center;
-    border:1px;
-    border-color:red;
+    border:1px red;
 }
 /* HEADINGS */
 
@@ -12,8 +11,7 @@ body{
     text-align: center;
     font-size: 50px;
     color:white;
-    border:1px;
-    border-color:yellow
+    border:1px yellow;
 }
 
 /* LINKS */
@@ -32,8 +30,7 @@ body{
     content-align:center;
     font-size: 30px;
     color:white;
-    border:1px;
-    border-color:yellow;
+    border:1px yellow;
 } 
 
 /* HEADER SUB-HEADER */
@@ -44,6 +41,6 @@ body{
     content-align:center;
     font-size: 20px;
     color:white;
-    border:1px;
-    border-color:yellow;
+    border:1px yellow;
+    
 }
